@@ -50,14 +50,38 @@ If you would like to test the Youtube import functionality you can email me at b
 
 All production and development testing was done using this spreadsheet:
 
-![[User Testing-1.png]]
+<img src="docs/testing.png" alt="testing spread sheet" />
+
 # Project Management
 
 Most recent Trello screenshot:
 
-![[Screenshot 2024-12-21 201249.png]]
+<img src="docs/trello.png" alt="trello SC" />
 
 # Screenshots
+
+<p float="left">
+   <p>Homepage Before Sign Up </p>
+   <img src="docs/homepage.png" width="700"/>
+   <p>Sign Up Page</p>
+   <img src="docs/signuppage.png" width="700"/>
+   <p>User Dashboard and Library</p>
+   <img src="docs/dashboard.png" width="700"/>
+   <p>Search Playlists</p>
+   <img src="docs/searchplaylists.png" width="700"/>
+   <p>Search Users</p>
+   <img src="docs/searchusers.png" width="700"/>
+   <p>Search Tracks</p>
+   <img src="docs/searchtracks.png" width="700"/>
+   <p>Playlist Page</p>
+   <img src="docs/playlist.png" width="700"/>
+   <p>Notifications Page</p>
+   <img src="docs/notifications.png" width="700"/>
+   <p>User Profile Page</p>
+   <img src="docs/profile.png" width="700"/>
+   <p>Creating a Playlist</p>
+   <img src="docs/createplaylist.png" width="700"/>
+</p>
 
 
 # Changes to Part A Plan
