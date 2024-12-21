@@ -74,15 +74,13 @@ Most recent Trello screenshot:
    <p>Search Tracks</p>
    <img src="docs/searchtracks.png" width="700"/>
    <p>Playlist Page</p>
-   <img src="docs/" width="700"/>
-   <p>Drop Down Menu Example</p>
-   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-9-9.jpg" width="700"/>
-   <p>Settings Page</p>
-   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-10-10.jpg" width="700"/>
-   <p>User Profile Page</p>
-   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-11-11.jpg" width="700"/>
+   <img src="docs/playlist.png" width="700"/>
    <p>Notifications Page</p>
-   <img src="Docs/Wireframes/wireframeJPGS/Desktop/Universal Music Hub Desktop.pdf-12-12.jpg" width="700"/>
+   <img src="docs/notifications.png" width="700"/>
+   <p>User Profile Page</p>
+   <img src="docs/profile.png" width="700"/>
+   <p>Creating a Playlist</p>
+   <img src="docs/createplaylist.png" width="700"/>
 </p>
 
 
