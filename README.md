@@ -224,4 +224,4 @@ As a social user, I want to share my playlists with friends so that we can enjoy
      - View playlist contents
      - Add songs from other playlists to your own
 
-## Original Part A Plan: 
+## Original Part A Plan: [Part A Plan](docs/README.md)
