@@ -10,6 +10,8 @@ Frontend repo: https://github.com/Full-Stack-App-Brodey-Bright/Part-B-Front-End
 
 Deployed site: https://universalmusichub.netlify.app
 
+Backend is deployed to Render.
+
 ### Documentation Links
 
 Trello Board: https://trello.com/b/8QAbbo6A/universal-music-hub
